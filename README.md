@@ -10,6 +10,9 @@ Watch **10,000+** free live TV channels from around the world in one place.
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](#license)
+[![Live Demo](https://img.shields.io/badge/Live-alltvlive.vercel.app-00ff9d?logo=vercel)](https://alltvlive.vercel.app)
+
+**[🔴 Live Demo → alltvlive.vercel.app](https://alltvlive.vercel.app)**
 
 ---
 
